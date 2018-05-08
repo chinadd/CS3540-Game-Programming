@@ -1,0 +1,2 @@
+0.5 - Pressing space causes the ball to jump (but not enough to get out of the play area).
+0.5 - A clock starts when the ball starts rolling and stops when all pickups are collected.
