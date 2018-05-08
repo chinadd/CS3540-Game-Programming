@@ -1,3 +1,0 @@
-Istiaque Shanjib
-I have very little experience in game design/development, but I attempted to use Unity to develop for HoloLens as part of my Computer Engineering Capstone project. Key word attempt as it did not go well at all, perhaps I should have taken this class before attempting that project. I have coded in Python on co-op for basic GUI applications and automation testing, but not in depth Python coding. So overall, exposure to the basics of Unity and Python but that's it.
-I hope to become more familiar with Unity and game design in general.
